@@ -20,7 +20,7 @@ Instead of dealing with complex browser extensions that break dynamic downloads,
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/automated-file-organizer.git
+   git clone https://github.com/Hokuss/file-organizer
    ```
 
 2. Navigate into the project directory:
